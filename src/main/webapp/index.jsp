@@ -21,6 +21,7 @@
     <input type="radio" id="date2" name="date2" value="20-10-2022">
     <label for="date2">20-10-2022</label><br><br>
 
+    <label>By clicking register button you are agreeing to terms and conditions</label><br>
     <button type="submit" class="registerbtn">Register</button>
     <hr>
 </form>
