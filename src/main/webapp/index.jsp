@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Registration For DevOps</h2>
+<h2>Registration For DevOps Batch 2</h2>
 <form>
     <hr>
     <label for="fname">First name:</label><br>
