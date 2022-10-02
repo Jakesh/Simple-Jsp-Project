@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Registration For DevOps 2022</h2>
+<h2>Registration For DevOps</h2>
 <form>
 	<p>New user registration</p>
     <hr>
@@ -10,6 +10,8 @@
     <input type="text" id="lname" name="lname"><br>
     <label for="email">Email:</label><br>
     <input type="text" id="email" name="email"><br>
+    <label for="phone">Contact number:</label><br>
+    <input type="text" id="phone" name="phone"><br>
     <label for="pass">Password:</label><br>
     <input type="password" id="pass" name="pass"><br>
     <label for="confirm_pass">Confirm Password:</label><br>
