@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Registration For DevOps</h2>
+<h2>Registration For DevOps 2022</h2>
 <form>
 	<p>New user registration</p>
     <hr>
